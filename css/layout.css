@@ -1,0 +1,149 @@
+body {
+    background-color: #FFF;
+    margin: 0;
+}
+
+.container {
+	background-color: #FFF;
+	margin: 0;
+}
+
+/******************************* HEADER *****************************************/
+
+.header {
+	width: 100%;
+	padding: 15px 0 15px 0;
+	border-bottom: 2px solid #307FE2;
+	background-color: #FFF;
+	position: fixed;
+	z-index: 1000;
+}
+
+.symbol {
+	height: 80px;
+	margin-left: 10%
+}
+
+.topnav {
+    float: right;
+    margin: 34px 10% 34px 2%;
+}
+
+h1 {
+	display: inline;
+	padding-left: 40px;
+}
+
+h1:hover {
+	font-weight: 700;
+}
+
+.active {
+	font-weight: 400;
+	padding: 0 5px 5px 5px;
+	border-bottom: 3px solid #307FE2;
+}
+
+/******************************* PAGES *****************************************/
+
+.break {
+	width: 100%;
+	clear: both;
+	padding: 50px;
+}
+
+.main {
+	clear: both;
+	background-color: #FFF;
+	width: 80%;
+	margin: 50px 10% 80px 10%;
+}
+
+.homeimage {
+	width: 100%;
+	clear: both;
+	margin: 0;
+}
+
+.aboutme {
+	margin-top: 100px;
+	margin-bottom: 100px;
+	width: 80%;
+}
+
+.resume {
+	float: left;
+	width: 65%;
+	background-color: #FFF;
+	box-shadow: 0px 0px 15px #82838b;
+	position: relative;
+}
+
+a .portfolioimage {
+	float: left;
+	width: 20%;
+	border: 1px solid #DFDFE1;
+	margin-bottom: 30px;
+	margin-right: 3%;
+}
+
+.row {
+	clear: both;
+}
+
+.underline {
+	display: inline;
+	border-bottom: 3px solid #307FE2;
+	color: #307FE2;
+	padding: 0 1px 3px 1px;
+}
+
+.images {
+	float: left;
+	width: 60%;
+}
+
+.images img {
+	width: 98%;
+}
+
+.description {
+	float: left;
+	width: 30%;
+	margin-left: 10%;
+}
+
+.border {
+	border: 1px solid #DFDFE1;
+}
+
+.stack {
+	clear:both;
+}
+
+.stack img {
+	width: 90%;
+}
+
+/******************************* FOOTER *****************************************/
+
+.footer {
+	clear: both;
+	width: 100%;
+	padding: 75px 0 75px 0;
+	background-color: #DFDFE1;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.box {
+	display: inline;
+	padding: 10px 10px 10px 10px;
+	border: 2px solid #FFF;
+	margin: 30px;
+}
+
+h4:hover {
+	background-color: #307FE2;
+}

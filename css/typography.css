@@ -1,0 +1,64 @@
+
+body {
+	font-family: 'Montserrat', sans-serif;;
+	font-size: 11px;
+	font-weight: 400;
+	line-height: 1.5em;
+	color: #82838b;
+}
+
+p {
+	font-family: 'Montserrat', sans-serif;;
+	font-size: 10px;
+	font-weight: 400;
+	line-height: 1.75em;
+	color: #82838b;
+}
+
+h1 {
+	font-size: 12px;
+	font-weight: 400;
+	color: #82838b;
+}
+
+.active {
+	font-weight: 700;
+}
+
+h2 {
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 1em;
+}
+
+h3 {
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 1.75em;
+}
+
+h4 {
+	font-size 14px;
+	color: #FFF;
+}
+
+h5 {
+	font-size: 12px;
+	font-weight: 400;
+	color: #307FE2;
+}
+
+/******************************* SPECIAL STYLES *****************************************/
+
+a {
+	text-decoration: none;
+	color: #82838b;
+}
+
+.bluetext {
+	color: #307FE2;
+}
+
+h4 a {
+	color: #FFF;
+}
