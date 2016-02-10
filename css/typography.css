@@ -62,3 +62,25 @@ a {
 h4 a {
 	color: #FFF;
 }
+
+/******************************* MOBILE RESPONSIVE *****************************************/
+
+@media (max-width: 885px) {
+	a {
+	text-decoration: none;
+	color: #FFF;
+	}
+	
+	h2 {
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 1em;
+	}
+	
+	h5 {
+	font-size: 12px;
+	font-weight: 400;
+	color: #307FE2;
+	margin-top: 0;
+	}
+}
